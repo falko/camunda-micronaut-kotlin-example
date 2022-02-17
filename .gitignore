@@ -12,3 +12,5 @@ out/
 .settings
 .classpath
 .factorypath
+.vscode/settings.json
+bin/

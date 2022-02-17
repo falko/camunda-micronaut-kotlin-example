@@ -5,3 +5,7 @@ netty:
   default:
     allocator:
       max-order: 3
+zeebe:
+  client:
+    cloud:
+      defaultJobWorkerName: micronaut-kotlin-http-worker

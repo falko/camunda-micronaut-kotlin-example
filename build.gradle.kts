@@ -16,7 +16,7 @@ repositories {
 
 dependencies {
     kapt("io.micronaut:micronaut-http-validation")
-    implementation("info.novatec:micronaut-zeebe-client-feature:1.3.1")
+    implementation("info.novatec:micronaut-zeebe-client-feature:1.4.0")
     implementation("io.micronaut:micronaut-http-client")
     implementation("io.micronaut:micronaut-jackson-databind")
     implementation("io.micronaut:micronaut-runtime")
